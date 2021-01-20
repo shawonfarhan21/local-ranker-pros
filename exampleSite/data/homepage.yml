@@ -108,7 +108,7 @@ service:
       link: faq
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Get My Affordable Monthly <br> Google My Business Packages
   image: images/screenshot.svg
 call_to_action:
   enable: true
