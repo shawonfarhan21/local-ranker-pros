@@ -1,14 +1,16 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: ''
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: "<h3> My service is 3-times cheaper than any other popular SEO  agency
+    is offering for the same works. Why...? How...? The answer is, I don't outsource
+    your works. I do the same works and strategies like other popular SEO agency is
+    doing. I manage all the tasks from my own desktop because I care about your business.
+    </h3>"
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: Contact With Me
+    link: faq
 feature:
   enable: true
   title: Something You Need To Know
