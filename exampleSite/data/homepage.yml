@@ -94,18 +94,18 @@ service:
       enable: true
       label: Contact Me
       link: faq
-  - title: A company standing different from others
+  - title: Focusing On Quick Wins Early In The Campaign Produces Fast Results
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Within the first month of your SEO Campaign, my focus is on finding,
+      identifying, and fixing the major issues that could be holding the businesses
+      website back. This early-phase optimization tends to produce some measurable
+      wins in terms of indexation, impressions, and organic traffic, not to mention
+      everyone’s gorilla at the SEO table, keyword market share.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Contact Me
+      link: faq
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
