@@ -8,11 +8,11 @@ description: This is meta description
   <div class="p-5 shadow rounded-lg">
     <h3 class="mb-4 check-mark">Contact Local Ranker Pros</h3>
     <h6>Contact Local Ranker Pros 
-Email Address to Rule GMB Local Pack
+Email Address to Rule GMB Local Pack</h6>
 
 
 
-Email for service inquiries
+<h6>Email for service inquiries
 
 </h6>
     <h3>localrankerpros@gmail.com</h3>
