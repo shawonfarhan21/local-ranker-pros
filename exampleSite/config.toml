@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bigspring Hugo"
+title = "Local Ranker Pros"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
@@ -55,9 +55,9 @@ weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "2021 Local Ranker Pros is a Trademark of Local Ranker Pros LLC"
 description = "This is meta description"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Local Ranker Pros is the place for next-level local SEO service and local business growth strategies."
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
@@ -66,7 +66,7 @@ logo_width = "200px"
 [params.navigation_button]
 enable = true
 label = "Get Started"
-link = "contact"
+link = "faq"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
