@@ -47,20 +47,23 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Struggling To Get In The 3 Pack? I Can Help You Get There
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Over 50% of the 1st page GMB real estate is gone and now there are local
+      search ads to worry about too! And When Citations Alone No Longer Rank Your
+      Listings…You Need to Stop Shooting in the Dark, You Need Proven GMB Optimization
+      Services designed to increase your business’s online visibility, build their
+      brand prominence and increase their listing relevance. So what are the signals
+      that really matter? Citations? Clean-Up? Links? Reviews? Geo-Tags? I Optimize
+      the Local Ranking Factors that Matter. Local Maps is highly-prized Page 1 real
+      estate and it’s about time you treat it as such.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Contact Me
+      link: faq
   - title: It is a privately owned Information and cyber security company
     images:
     - images/service-1.png
