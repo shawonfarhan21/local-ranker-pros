@@ -15,12 +15,6 @@ name = "About Us"
 [[menu.footer_left]]
 URL = "#"
 name = "Quick Start"
-[[menu.footer_left]]
-URL = "pricing"
-name = "Pricing"
-[[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
 [[menu.footer_middle]]
 URL = "#"
 name = "Platform"
@@ -31,11 +25,8 @@ name = "Features"
 URL = "privacy-policy"
 name = "Privacy Policy"
 [[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-[[menu.footer_right]]
 URL = "faq"
-name = "FAQ"
+name = "Contact Me"
 [[menu.main]]
 URL = "faq"
 name = "Contact Me"
