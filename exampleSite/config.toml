@@ -37,13 +37,13 @@ name = "Terms & Conditions"
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
+URL = "faq"
+name = "Contact Me"
+weight = 4
+[[menu.main]]
 URL = ""
 name = "localrankerpros@gmail.com"
 weight = ""
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
