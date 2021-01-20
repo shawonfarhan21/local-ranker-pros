@@ -80,18 +80,20 @@ service:
       enable: true
       label: Contact Me
       link: faq
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Overcome Proximity With Hyper-Local Signals And Expand Your Visibility
+      To New Areas
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Take advantage of a local optimization strategy for your local business
+      that has proven time and again to deliver real results month over month. I focus
+      on creating the signals and relevancy needed to compete for top 3 pack rankings.
+      When you start with Local Ranker Pros, you’ll get everything from online brand
+      creation, citations and directory submissions, branded NAP mentions, and advanced
+      local linkbuilding to GMB post and photos and even YouTube local optimization.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Contact Me
+      link: faq
   - title: A company standing different from others
     images:
     - images/service-3.png
