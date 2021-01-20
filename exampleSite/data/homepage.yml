@@ -64,18 +64,22 @@ service:
       enable: true
       label: Contact Me
       link: faq
-  - title: It is a privately owned Information and cyber security company
+  - title: Immediately Beat 75% Of Your Competitors Still Relying On Citations For
+      3 Pack Rankings
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'Take your Google My Business – GMB and Local Maps Optimization to Local
+      Ranker Pros and I guarantee I will increase your online visibility. My strategic
+      approach produces GMB and Local Maps results: I use a variety of means designed
+      to increase a business’s local online presence by improving the brand’s relevance
+      and prominence. No longer can you rely on citations alone, those days are gone.
+      Instead, I create powerful signals that create trust and authority for your
+      brand. And trusted, authoritative brands rank higher, both in the 3 pack and
+      organically.'
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Contact Me
+      link: faq
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/service-2.png
