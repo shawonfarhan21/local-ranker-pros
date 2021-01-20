@@ -37,17 +37,9 @@ name = "Terms & Conditions"
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+URL = ""
+name = "localrankerpros@gmail.com"
+weight = ""
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
