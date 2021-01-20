@@ -97,4 +97,4 @@ call_to_action:
   button:
     enable: true
     label: Contact Me
-    link: contact
+    link: faq
