@@ -15,8 +15,8 @@ Email Address to Rule GMB Local Pack</h6>
 <h6>Email for service inquiries
 
 </h6>
-    <h3>localrankerpros@gmail.com</h3>
-        <h3>Skype: shaon.madyan</h3>
+    <h4>localrankerpros@gmail.com</h4>
+        <h4>Skype: shaon.madyan</h4>
   </div>
 </div>
 
