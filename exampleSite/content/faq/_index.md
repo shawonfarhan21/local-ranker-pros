@@ -7,12 +7,12 @@ description: This is meta description
 <div class="col-md-6 mb-4">
   <div class="p-5 shadow rounded-lg">
     <h3 class="mb-4 check-mark">Contact Local Ranker Pros</h3>
-    <p>Contact Local Ranker Pros 
-Email Address to Rule GMB Local Pack
+    <p><b>Contact Local Ranker Pros 
+Email Address to Rule GMB Local Pack</b>
 
 
 
-Email for service inquiries
+<b>Email for service inquiries</b>
 
 </p>
     <h3>localrankerpros@gmail.com</h3>
