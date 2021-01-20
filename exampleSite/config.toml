@@ -44,7 +44,7 @@ footer_content = "Local Ranker Pros is the place for next-level local SEO servic
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-logo = "/images/local-ranker-pros-13.png"
+logo = "/images/local-ranker-pros-15.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
