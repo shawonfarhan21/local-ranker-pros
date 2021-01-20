@@ -13,18 +13,17 @@ banner:
     link: faq
 feature:
   enable: true
-  title: Local 3 -Pack Ranking Monthly Fees
+  title: Local 3 -Pack Ranking Monthly Pricing
   feature_item:
-  - name: Premium Pack $3000
-    icon: ti-pulse
-    content: 5x GMB & Search Engine Optimization<br>Advanced Entity Creation <br>Monthly
-      NAP Signals and Embeds<br> Includes On-Page Optimization<br> 100% USA GMB Optimization<br>
-      Local Link Building<br> Monthly GMB Posts with Photos<br> Keyword Optimized
-      Posts And Geo-Tagged Photos<br> Local Visibility Reporting<br> 20 Optimized
-      Photos <br>20 Optimized Posts<br> Posts Scheduled Weekly<br> Location, Service,
-      and Review Posts <br>Local Brand Links<br> Additional Signals Dripped Every
-      Month<br> Tiered Linking to Entity Profiles <br>Improve Ranking and Visibility
-      Every Month
+  - name: Starter Pack $999
+    icon: ti-cloud-up
+    content: Advanced Entity Creation <br>Monthly NAP Signals and Embeds<br> Includes
+      On-Page Optimization<br> 100% USA GMB Optimization<br> Local Link Building<br>
+      Monthly GMB Posts with Photos<br> Keyword Optimized Posts And Geo-Tagged Photos<br>
+      Local Visibility Reporting<br> 20 Optimized Photos <br>20 Optimized Posts<br>
+      Posts Scheduled Weekly<br> Location, Service, and Review Posts <br>Local Brand
+      Links<br> Additional Signals Dripped Every Month<br> Tiered Linking to Entity
+      Profiles <br>Improve Ranking and Visibility Every Month
   - name: Standard Pack $2000
     icon: ti-package
     content: 3x GMB & Search Engine Optimization <br>Advanced Entity Creation <br>
@@ -35,24 +34,16 @@ feature:
       Location, Service, and Review Posts <br>Local Brand Links <br> Additional Signals
       Dripped Every Month <br> Tiered Linking to Entity Profiles <br>Improve Ranking
       and Visibility Every Month
-  - name: 24h Service
-    icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Starter Pack $999
-    icon: ti-cloud-up
-    content: Advanced Entity Creation <br>Monthly NAP Signals and Embeds<br> Includes
-      On-Page Optimization<br> 100% USA GMB Optimization<br> Local Link Building<br>
-      Monthly GMB Posts with Photos<br> Keyword Optimized Posts And Geo-Tagged Photos<br>
-      Local Visibility Reporting<br> 20 Optimized Photos <br>20 Optimized Posts<br>
-      Posts Scheduled Weekly<br> Location, Service, and Review Posts <br>Local Brand
-      Links<br> Additional Signals Dripped Every Month<br> Tiered Linking to Entity
-      Profiles <br>Improve Ranking and Visibility Every Month
+  - name: Premium Pack $3000
+    icon: ti-pulse
+    content: 5x GMB & Search Engine Optimization<br>Advanced Entity Creation <br>Monthly
+      NAP Signals and Embeds<br> Includes On-Page Optimization<br> 100% USA GMB Optimization<br>
+      Local Link Building<br> Monthly GMB Posts with Photos<br> Keyword Optimized
+      Posts And Geo-Tagged Photos<br> Local Visibility Reporting<br> 20 Optimized
+      Photos <br>20 Optimized Posts<br> Posts Scheduled Weekly<br> Location, Service,
+      and Review Posts <br>Local Brand Links<br> Additional Signals Dripped Every
+      Month<br> Tiered Linking to Entity Profiles <br>Improve Ranking and Visibility
+      Every Month
 service:
   enable: true
   service_item:
