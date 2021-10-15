@@ -92,7 +92,7 @@ service:
       local linkbuilding to GMB post and photos and even YouTube local optimization.
     button:
       enable: true
-      label: Contact Me
+      label: Contact Us
       link: faq
   - title: Focusing On Quick Wins Early In The Campaign Produces Fast Results
     images:
