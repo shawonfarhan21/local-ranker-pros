@@ -62,7 +62,7 @@ service:
       estate and it’s about time you treat it as such.
     button:
       enable: true
-      label: Contact Me
+      label: Contact Us
       link: faq
   - title: Immediately Beat 75% Of Your Competitors Still Relying On Citations For
       3 Pack Rankings
