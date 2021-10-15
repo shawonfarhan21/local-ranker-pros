@@ -12,29 +12,35 @@ unsafe = true
 [[menu.footer_left]]
 URL = "#"
 name = "About Us"
+weight = 1
 [[menu.footer_left]]
 URL = "#"
 name = "Quick Start"
+weight = 2
 [[menu.footer_middle]]
 URL = "#"
 name = "Platform"
+weight = 1
 [[menu.footer_middle]]
 URL = "#"
 name = "Features"
+weight = 2
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
+weight = 1
 [[menu.footer_right]]
 URL = "faq"
-name = "Contact Me"
+name = "Contact Us"
+weight = 2
 [[menu.main]]
 URL = "faq"
-name = "Contact Me"
-weight = 4
+name = "Contact Us"
+weight = 1
 [[menu.main]]
 URL = ""
 name = "localrankerpros@gmail.com"
-weight = ""
+weight = 2
 [params]
 author = "Themefisher"
 contact_form_action = "#"
