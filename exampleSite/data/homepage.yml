@@ -104,7 +104,7 @@ service:
       everyone’s gorilla at the SEO table, keyword market share.
     button:
       enable: true
-      label: Contact Me
+      label: Contact Us
       link: faq
 screenshot:
   enable: true
