@@ -71,7 +71,7 @@ link = "https://www.facebook.com/localrankerpros"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://www.facebook.com/localrankerpros"
 title = "twitter"
 [[params.social]]
 icon = "ti-skype"
