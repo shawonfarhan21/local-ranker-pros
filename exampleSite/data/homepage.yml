@@ -9,7 +9,7 @@ banner:
     care about your business. </h3>"
   button:
     enable: true
-    label: Contact With Me
+    label: Contact Us
     link: faq
 feature:
   enable: true
