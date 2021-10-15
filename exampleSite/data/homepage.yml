@@ -78,7 +78,7 @@ service:
       organically.'
     button:
       enable: true
-      label: Contact Me
+      label: Contact Us
       link: faq
   - title: Overcome Proximity With Hyper-Local Signals And Expand Your Visibility
       To New Areas
