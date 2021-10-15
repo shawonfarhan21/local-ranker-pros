@@ -12,35 +12,29 @@ unsafe = true
 [[menu.footer_left]]
 URL = "#"
 name = "About Us"
-weight = 1
 [[menu.footer_left]]
 URL = "#"
 name = "Quick Start"
-weight = 2
 [[menu.footer_middle]]
 URL = "#"
 name = "Platform"
-weight = 1
 [[menu.footer_middle]]
 URL = "#"
 name = "Features"
-weight = 2
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-weight = 1
 [[menu.footer_right]]
 URL = "faq"
-name = "Contact Us"
-weight = 2
+name = "Contact Me"
 [[menu.main]]
 URL = "faq"
-name = "Contact Us"
-weight = 1
+name = "Contact Me"
+weight = 4
 [[menu.main]]
 URL = ""
 name = "localrankerpros@gmail.com"
-weight = 2
+weight = ""
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -81,7 +75,7 @@ link = "https://www.facebook.com/localrankerpros"
 title = "twitter"
 [[params.social]]
 icon = "ti-skype"
-link = "shaon.madyan"
+link = "skype:shaon.madyan"
 title = "skype"
 [[params.social]]
 icon = "ti-linkedin"
