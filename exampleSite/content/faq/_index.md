@@ -21,4 +21,4 @@ Email Address to Rule GMB Local Pack</h6>
 <div class="col-md-6 mb-4">
 <div class="p-5 shadow rounded-lg">
 <h3 class="mb-4 check-mark">Get Noticed on Google Maps For More Sales and Calls</h3>
-<p><iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d53266.2702163244!2d-94.0938741!3d33.4456097!3m2!1i1024!2i768!4f13.1!2m1!1slocal%20ranking%20company%20texas!5e0!3m2!1sen!2sbd!4v1634384705378!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p> </div> </div>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d53266.2702163244!2d-94.0938741!3d33.4456097!3m2!1i1024!2i768!4f13.1!2m1!1slocal%20ranking%20company%20texas!5e0!3m2!1sen!2sbd!4v1634384705378!5m2!1sen!2sbd" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p> </div> </div>
