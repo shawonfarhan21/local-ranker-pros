@@ -29,7 +29,7 @@ URL = "faq"
 name = "Contact Me"
 [[menu.main]]
 URL = "faq"
-name = "Contact Me"
+name = "Contact Us"
 weight = 4
 [[menu.main]]
 URL = ""
