@@ -26,7 +26,7 @@ URL = "privacy-policy"
 name = "Privacy Policy"
 [[menu.footer_right]]
 URL = "faq"
-name = "Contact Me"
+name = "Contact Us"
 [[menu.main]]
 URL = "faq"
 name = "Contact Us"
